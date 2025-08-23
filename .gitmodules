@@ -1,0 +1,6 @@
+[submodule "Panda3D"]
+	path = Panda3D
+	url = https://github.com/Panda3D/Panda3D
+[submodule "Python"]
+	path = Python
+	url = https://github.com/python/cpython
