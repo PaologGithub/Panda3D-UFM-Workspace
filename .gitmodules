@@ -4,3 +4,6 @@
 [submodule "Python"]
 	path = Python
 	url = https://github.com/python/cpython
+[submodule "android-ursina"]
+	path = android-ursina
+	url = https://github.com/pokepetter/ursina
